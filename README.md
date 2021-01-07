@@ -11,14 +11,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mohdsuhailin | website" width="30" src="https://img.icons8.com/fluent/96/000000/domain.png" />][website]
-[<img align="left" alt="mohdsuhailin | Twitter" width="30" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
-[<img align="left" alt="mohdsuhailin | LinkedIn" width="30" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="mohdsuhailin | Stackoverflow" width="30" src="https://img.icons8.com/color/96/000000/stackoverflow.png" />][stackoverflow]
-[<img align="left" alt="mohdsuhailin | Reddit" width="30" src="https://img.icons8.com/color/96/000000/reddit.png" />][reddit]
-[<img align="left" alt="mohdsuhailin | Instagram" width="30" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="mohdsuhailin | Instagram" width="30" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
-<img align="left" style="margin-top:3px; margin-left:5px" height="24" alt="mohdsuhailin | Profile View" src="https://komarev.com/ghpvc/?username=mohdsuhailin&style=flat-square" >
+[<img align="left" alt="lalitmee | website" width="30" src="https://img.icons8.com/fluent/96/000000/domain.png" />][website]
+[<img align="left" alt="lalitmee | Twitter" width="30" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
+[<img align="left" alt="lalitmee | LinkedIn" width="30" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="lalitmee | Stackoverflow" width="30" src="https://img.icons8.com/color/96/000000/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="lalitmee | Reddit" width="30" src="https://img.icons8.com/color/96/000000/reddit.png" />][reddit]
+[<img align="left" alt="lalitmee | Instagram" width="30" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="lalitmee | Instagram" width="30" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
+<img align="left" style="margin-top:3px; margin-left:5px" height="24" alt="lalitmee | Profile View" src="https://komarev.com/ghpvc/?username=lalitmee&style=flat-square" >
 
 <br />
 
