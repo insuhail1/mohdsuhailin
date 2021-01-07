@@ -2,20 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mohdsuhailin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%mohdsuhailin&screen_name=mohdsuhailin)
 
-## I'm a Software Developer @[koinearth](https://github.com/koinearth)
+## I'm a Software Developer 
 
-- 🌱 I’m currently learning Python and Golang.
-- 💬 Ask me anything about Javascript, React and Angular. I am happy to help.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play football ⚽
-- 📝 [Resume](https://drive.google.com/file/d/1y6YlyQEKCp_phOI-RRymOjgYQUPb5kG4/view?usp=sharing)
-
----
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.mohdsuhailin.vercel.app/api/spotify)](https://open.spotify.com/user/lkmee)
-
+- 🌱 I’m currently learning RPA.
+- ⚡ Fun fact: I love to play badminton 🏸
 ---
 
 ### Connect with me:
@@ -37,7 +27,6 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
