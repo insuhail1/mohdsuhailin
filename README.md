@@ -1,4 +1,5 @@
-### Hi there, I'm Suhail <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello, folks!, I'm Suhail <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mohdsuhailin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%mohdsuhailin&screen_name=mohdsuhailin)
 
