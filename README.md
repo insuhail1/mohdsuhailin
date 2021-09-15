@@ -5,7 +5,7 @@
 
 ## I'm a Software Developer 
 
-- 🌱 I’m currently learning RPA.
+- 🌱 I’m currently learning golang.
 - ⚡ Fun fact: I love to play badminton 🏸
 ---
 
