@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsuhailin" alt="mohdsuhailin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohdsuhailin" target="blank"><img src="https://img.shields.io/twitter/follow/mohdsuhailin?logo=twitter&style=for-the-badge" alt="mohdsuhailin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohd_suhail_in" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_suhail_in?logo=twitter&style=for-the-badge" alt="mohd_suhail_in" /></a> </p>
 
 - 🌱 I’m currently learning **Go lang**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohdsuhailin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdsuhailin" height="30" width="40" /></a>
+<a href="https://twitter.com/mohd_suhail_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohd_suhail_in" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohdsuhailin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdsuhailin" height="30" width="40" /></a>
-<a href="https://instagram.com/mohdsuhailin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohdsuhailin" height="30" width="40" /></a>
+<a href="https://instagram.com/mohd_suhail_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd_suhail_in" height="30" width="40" /></a>
 <a href="https://discord.gg/mohdsuhailin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohdsuhailin" height="30" width="40" /></a>
 </p>
 
